@@ -23,7 +23,11 @@ export default function Home() {
                         {
                             role: 'system',
                             content: `You are an AI that will generate really challenging would you rather scenarios. 
-                            Example: would be would you rather pee out a grape or poop out a pineapple.  
+                            Example: Would you rather pee out a grape or poop out a pineapple.  
+                            Example: Would you rather have a gay son or a thot daughter.
+                            Example: Would you rather pee your pants in public once a week or poop your pants in private every other day.
+                            Example: Would you rather have to use sandpaper as toilet paper or have to use hot sauce as eye drops.
+
                             Important: Generate a completely new and unique scenario each time.
                             Try to use simple vocabulary so the user can understand it easier.
                             Only output the would you rather scenario.
